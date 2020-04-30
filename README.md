@@ -16,5 +16,5 @@ Diese Methode berechnet `e^(zahl)` auf `stellen` Stellen genau. Auch hier ist de
 * **`.fak(long zahl)`**  
 Diese Methode berechnet die Fakultät von `zahl` und gibt das Ergebnis als "BigDecimal" zurück. Natürlich ist das nicht die sinnvollste Anwendung, ich hatte genau dese Methode jedoch einmal für ein Projekt bentötigt.
 
-##Warnung
+## Warnung
 Alle Methoden sollten einwandfrei funktionieren, jedoch handelt es sich mathematisch um Summen, die so noch keineswegs für die Berechnung mit einem Programm optimiert wurden. Die Methoden liefern zwar, benötigen jedoch etwas Zeit, zumal "BigDecimal" nicht die schnellste Klasse ist.
